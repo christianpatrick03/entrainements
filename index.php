@@ -8,5 +8,6 @@
 <body>
     <?php
     echo "bonjour à tous "
+    ?>
 </body>
 </html>
